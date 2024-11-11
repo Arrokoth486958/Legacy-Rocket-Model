@@ -1,0 +1,16 @@
+[
+{
+  "modid": "legacy_rocket_model",
+  "name": "Legacy rocket model",
+  "description": "This mod replace the model of tier 2 rocket of Galacticraft to it's old model.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Arrokoth233"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
